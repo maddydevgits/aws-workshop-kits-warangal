@@ -20,6 +20,9 @@ cs1\Scripts\activate <br/>
 pip install boto3 <br/>
 pip install awscli <br/>
 
+# Link to access Case Study 3
+https://medium.com/@parvathanenimadhu/launch-web-server-on-aws-ec2-in-under-15-minutes-e1d21c6ef6f2
+
 # Applications
 1. Face Matching Application
 2. Face Recognition Application
