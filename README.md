@@ -9,6 +9,17 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 1. VS Code (https://code.visualstudio.com/)
 2. Python 3.9 (Install Python through VS Code)
 
+# Configuration of Command Prompt
+cd Desktop <br/>
+mkdir aws-kits-workshop<br/>
+cd aws-kits-workshop<br/>
+mkdir case-study-1 <br/>
+cd case-study-1 <br/>
+virtualenv cs1 <br/>
+cs1\Scripts\activate <br/>
+pip install boto3 <br/>
+pip install awscli <br/>
+
 # Applications
 1. Face Matching Application
 2. Face Recognition Application
