@@ -6,8 +6,8 @@ Official Repo of my session at AWS Workshop by KITS Warangal on 27th Jan 2022
 Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group and Director & Strategist at Madblocks Technologies Pvt Ltd. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
 # Softwares
-1. Python 3.9
-2. VS Code
+1. VS Code (https://code.visualstudio.com/)
+2. Python 3.9 (Install Python through VS Code)
 
 # Applications
 1. Face Matching Application
